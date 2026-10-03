@@ -3,10 +3,10 @@
 From July 27 to August 19, I participated in an engineering workshop where I learned the fundamentals of mechanical, electrical, and computer engineering. Throughout the program, I gained hands‑on experience with CAD modeling, Multisim circuit simulation, breadboarding, and DoDot programming while building a fully automated conveyor‑based testing system.
 
 ## Demo Video
-[Watch on YouTube](YOUR_LINK)
+[Watch on YouTube](https://www.youtube.com/shorts/89tIFAxiyKI)
 
 ## Article
-[CityTech.CUNY Article](YOUR_LINK)
+[CityTech.CUNY Article](https://www.citytech.cuny.edu/news/?id=2328)
 
 ## Project Overview
 Our final project was an automated lightbulb testing and sorting system.
